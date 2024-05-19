@@ -19,7 +19,7 @@
 </div>
 
 <br/>
-<hr style="height: 1px !important;">
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=merko" alt="Anurag's GitHub stats"/>
