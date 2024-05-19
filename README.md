@@ -1,4 +1,3 @@
-
 <h3 align='center'>🌱 Back-end Stack 🌱</h3>
 
 <div align="center">
@@ -19,10 +18,14 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
 
+<br/>
+<hr style="height: 1px !important;">
 
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=merko)
+    <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=merko" alt="Anurag's GitHub stats"/>
 </div>
+
+
 
 <!--
 **billihazero/billihazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
