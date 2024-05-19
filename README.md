@@ -7,7 +7,7 @@
 </div>
 
 <br/>
-<hr style="height: 1px !important;">
+
 <h3 align='center'>🌱 Front-end Stack 🌱</h3>
 
 <div align="center">
