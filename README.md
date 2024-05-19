@@ -1,4 +1,7 @@
 ### Skill List
+![Static Badge](https://img.shields.io/badge/label-springBoot-green)
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=merko)
