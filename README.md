@@ -9,12 +9,12 @@
 
 <br/>
 <hr style="height: 1px !important;">
-  <h3 align='center'>🌱 Front-end Stack 🌱</h3>
-  <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQurey-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<h3 align='center'>🌱 Front-end Stack 🌱</h3>
+<img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQurey-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=merko)
