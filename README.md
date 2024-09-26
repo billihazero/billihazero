@@ -29,7 +29,7 @@
     </a>
     
     <a href="https://billihazero.github.io">
-        <img src="https://img.shields.io/badge/github pages-222222?style=flat-squere&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
     </a>
 
 </div>
