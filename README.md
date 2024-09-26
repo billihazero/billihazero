@@ -25,7 +25,7 @@
 <div align="center">
     <a href="https://billihazero.github.io/">
         <img src="https://img.shields.io/badge/github%20pages-121013?style=flat-squere&logo=github&logoColor=white"/>   
-        <img src="https://img.shields.io/badge/githubpages-222222?style=flat-squere&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github pages-222222?style=flat-squere&logo=github&logoColor=white"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
