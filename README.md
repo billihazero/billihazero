@@ -23,7 +23,7 @@
 <h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
-    <a href="https://billihazero.github.io/">
+    <a href="https://billihazero.github.io">
         <img src="https://img.shields.io/badge/github pages-222222?style=flat-squere&logo=github&logoColor=white"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
