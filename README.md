@@ -20,6 +20,7 @@
 
 <br/>
 
+<h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
