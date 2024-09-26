@@ -23,6 +23,7 @@
 <h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
+    
     <a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
     </a>
