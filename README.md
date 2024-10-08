@@ -1,14 +1,11 @@
-<h3 align='center'>🌱 Back-end Stack 🌱</h3>
 
+<h3 align='center'>🌱 Skill 🌱</h3>
+<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
-
-<br/>
-
-<h3 align='center'>🌱 Front-end Stack 🌱</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -44,19 +41,29 @@
     <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
 </div>
 
+<h3 align='center'>🌱 Project 🌱</h3>
+<br/>
 
+1. [라멘땅](https://github.com/billihazero/ramenddang-BE) (개인 프로젝트 - FE 진행중)
+> 라멘 맛집 조회 및 추천 커뮤니티 플랫폼  <br/>
+개발기간 : 24.09.21 ~ 24.10.05 (BE완료) <br/><br/>
+> 기술스택<br/>
+: Spring Boot(3.3.2) / Java 17 / Spring Security 6.2.1 / JPA / Redis 3.0.504 / JWT 0.12.3 / MySQL 8.0.36 / AWS EC2 / Github / Notion
+> <br/><br/>
+> 상세설명 : --
 
-<!--
-**billihazero/billihazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. [밤양갱](https://github.com/bamyanggang-project/bamyanggang-FE) (팀 프로젝트) 
+> WebRTC를 활용한 웹 마피아 게임 <br/>
+개발기간 : 24.04.15 ~ 24.05.10  <br/><br/>
+> 기술스택<br/>
+: React / VS Code / HTML / CSS / Java Script / Spring Boot 3.2.4 / MyBatis 3.0.3 / Java 17 / MySQL 8.0.36 / AWS EC2 / WebRTC, WebSocket
+> <br/><br/>
+> 상세설명 : --
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. [팔로팔도](https://github.com/followpaldo/followpaldo_project) (팀 프로젝트)
+> 공공데이터 API 를 활용한 캠핑장 & 관광지 검색 웹 서비스  <br/>
+개발기간 : 24.03.18 ~ 24.04.12 <br/><br/>
+>  기술스택<br/>
+: Spring Boot(3.2.4) / Java 17 / MyBatis 3.0.3 / MySQL 8.0.36 / J Query / JSP
+> <br/><br/>
+> 상세설명 : --
