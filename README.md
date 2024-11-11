@@ -30,7 +30,11 @@
 
 <br/>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
+</div>
 
+<br/>
 
 <h3 align='center'>🌱 Portfolio 🌱</h3>
 <div align="center">
@@ -38,8 +42,4 @@
         Portfolio
     </a>
 </div>
-<br/>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
-</div>
