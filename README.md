@@ -1,6 +1,5 @@
 
 <h3 align='center'>🌱 Skill 🌱</h3>
-<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -18,22 +17,16 @@
 <br/>
 
 <h3 align='center'>🌱 Blog 🌱</h3>
-<br/>
+
 <div align="center">
-   
-<a href="https://billihazero.github.io">
-    <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
+    <a href="https://billihazero.github.io">
+        <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
+    </a>
 </br> 
-
-<a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
-    <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-</a>
-
-
+    <a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
+        <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+    </a>
 </div>
-
 
 <br/>
 
@@ -42,8 +35,6 @@
 </div>
 
 <h3 align='center'>🌱 Portfolio 🌱</h3>
-<br/>
-
 <div align="center">
     <a href="https://github.com/billihazero/portpolio">
         Portfolio
