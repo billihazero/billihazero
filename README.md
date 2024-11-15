@@ -26,9 +26,9 @@
         <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
     </a>
 </br> 
-    <a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
+<!--     <a href="https://www.notion.so/billihazero/Study-be40a77235ae44d797fcb8b26c979f9e">
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-    </a>
+    </a> -->
 </div>
 
 <br/>
