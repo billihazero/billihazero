@@ -19,6 +19,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://solved.ac/lumos0417">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lumos0417" alt="Solved.ac 프로필" />
+  </a>
+</div>
+
 <h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
