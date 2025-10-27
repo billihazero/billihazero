@@ -33,9 +33,10 @@
 <h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
-    <a href="https://billihazero.github.io">
+   <!-- <a href="https://billihazero.github.io">
         <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
     </a>
+    --> 
 </br> 
     <a href="https://billihazero.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
