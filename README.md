@@ -24,19 +24,19 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://solved.ac/lumos0417">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lumos0417" alt="Solved.ac 프로필" />
   </a>
 </div>
+-->
 
 <h3 align='center'>🌱 Blog 🌱</h3>
 
 <div align="center">
-   <!-- <a href="https://billihazero.github.io">
+   <a href="https://billihazero.github.io">
         <img src="https://img.shields.io/badge/github pages-222222?style=flat-square&logo=github&logoColor=white"/>
     </a>
-    --> 
 </br> 
     <a href="https://billihazero.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
