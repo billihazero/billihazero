@@ -1,7 +1,4 @@
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats"/>
-</div>
 
 <h3 align='center'>🌱 Skill 🌱</h3>
 <div align="center">
@@ -29,6 +26,10 @@
 
 <br/>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=billihazero&show_icons=true&theme=vue-dark" alt="Anurag's GitHub stats"/>
+</div>
+
 <!-- <div align="center">
   <a href="https://solved.ac/lumos0417">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lumos0417" alt="Solved.ac 프로필" />
@@ -37,7 +38,7 @@
 -->
 
 
-<h3 align='center'>🌱 Blog(Under Renewal...) 🌱</h3>
+<h3 align='center'>🌱 Blog(Under Renewal) 🌱</h3>
 
 <div align="center">
    <a href="https://billihazero.github.io">
@@ -48,12 +49,15 @@
 
 <br/>
 
-<h3 align='center'>🌱 Portfolio(Under Renewal...) 🌱</h3>
-<div align="center">
+<h3 align='center'>🌱 Portfolio(Under Renewal) 🌱</h3>
+<!-- <div align="center">
     <a href="https://github.com/billihazero/portpolio">
         Portfolio
     </a>
-</div>
+</div> -->
+
+
+
 
 
 
