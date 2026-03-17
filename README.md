@@ -11,3 +11,6 @@
 
 ### 📫 연락처
  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:billihazero@gmail.com)
+
+### 🏆 Problem Solving
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumos0417)](https://solved.ac/lumos0417/)
